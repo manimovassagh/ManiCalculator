@@ -1,3 +1,24 @@
-/* #screen{
-    background-color: blueviolet;
-} */
+body{
+    margin: 30px;
+}
+
+
+.my-container{
+    border:1px solid grey;
+    max-width: 500px;
+
+}
+.my-row{
+    border:1px solid grey;
+   
+   
+    margin: auto;
+}
+.my-col{
+    border:1px solid rgb(201, 201, 201);
+    padding: 30px;
+    margin: 0px;
+}
+.my-screen{
+    padding:30px
+}
