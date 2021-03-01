@@ -1,10 +1,11 @@
 body{
     margin: 30px;
+    background-color: rgb(32, 0, 61);
 }
 
 
 .my-container{
-    border:1px solid grey;
+   
     max-width: 500px;
 
 }
@@ -20,5 +21,9 @@ body{
     margin: 0px;
 }
 .my-screen{
-    padding:30px
+    padding:30px;
+    
+}
+.my.header{
+    color: azure;
 }
