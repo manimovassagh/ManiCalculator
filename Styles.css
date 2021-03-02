@@ -1,12 +1,12 @@
 body{
     margin: 30px;
     background-color: rgb(32, 0, 61);
+    
 }
-
 
 .my-container{
    
-    max-width: 500px;
+    max-width: 450px;
 
 }
 .my-row{
@@ -17,7 +17,7 @@ body{
 }
 .my-col{
     border:1px solid rgb(201, 201, 201);
-    padding: 30px;
+    padding: 20px;
     margin: 0px;
 }
 .my-screen{
@@ -26,4 +26,10 @@ body{
 }
 .my.header{
     color: azure;
+}
+h4 {
+    color: rgb(0, 245, 151);
+}
+#scr{
+    background-color: rgb(93, 82, 104);
 }
