@@ -1,3 +1,5 @@
+//define a class to make a calculator easier to manage
+
 class Calculator {
   constructor(previousOperandTextElement, currentOperandTextElement) {
     this.previousOperandTextElement = previousOperandTextElement;
