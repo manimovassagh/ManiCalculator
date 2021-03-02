@@ -20,6 +20,7 @@ body {
 .my-screen {
   padding: 15px;
   cursor: default;
+  min-height: 120px;
 }
 .my.header {
   color: azure;
