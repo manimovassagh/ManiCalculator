@@ -1,35 +1,47 @@
-body{
-    margin: 30px;
-    background-color: rgb(32, 0, 61);
-    
+body {
+  margin: 30px;
+  background-color: rgb(32, 0, 61);
 }
 
-.my-container{
-   
-    max-width: 450px;
+.my-container {
+  max-width: 450px;
+}
+.my-row {
+  border: 1px solid grey;
 
+  margin: auto;
 }
-.my-row{
-    border:1px solid grey;
-   
-   
-    margin: auto;
+.my-col {
+  border: 1px solid rgb(201, 201, 201);
+  padding: 12px;
+  margin: 0px;
 }
-.my-col{
-    border:1px solid rgb(201, 201, 201);
-    padding: 20px;
-    margin: 0px;
+.my-screen {
+  padding: 15px;
 }
-.my-screen{
-    padding:30px;
-    
-}
-.my.header{
-    color: azure;
+.my.header {
+  color: azure;
 }
 h4 {
-    color: rgb(0, 245, 151);
+  color: rgb(0, 245, 151);
 }
-#scr{
-    background-color: rgb(93, 82, 104);
+#scr {
+  background-color: rgb(93, 82, 104);
+  display: grid;
+}
+.previousOperated {
+  color: azure;
+  font-size: smaller;
+  margin: 0px;
+}
+.currentOperated {
+  color: azure;
+  font-size: larger;
+  margin-top: 10px;
+}
+.my.header{
+    position:relative;
+margin: auto;
+text-align: center;
+margin: 10px;
 }
